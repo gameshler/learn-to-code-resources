@@ -71,6 +71,7 @@
 * [Advent of Code](https://adventofcode.com/)
 * [Hacker Rank](https://www.hackerrank.com/)
 * [Exercism](https://exercism.io/)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 # Social Coding Platforms
 
@@ -82,3 +83,11 @@
   * ▶️ An awesome list of awesome YouTubers that teach about technology.
 * [Dev YouTube List](https://github.com/ErikCH/DevYouTubeList)
   * List of Development YouTube Channels
+
+# Jobs / Internships
+
+* [Remote Jobs](https://remote.co/lp/t1)
+* [Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships)
+* [Remote Tech Jobs](https://github.com/remoteintech/remote-jobs)
+* [Tech Job Relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
+* [Resume Builder](https://rxresu.me/)
